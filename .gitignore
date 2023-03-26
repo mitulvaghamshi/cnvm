@@ -1,0 +1,6 @@
+#MacOS
+.DS_Store
+build/
+*.out
+DerivedData/
+.idea/
